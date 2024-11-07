@@ -1,0 +1,25 @@
+공학 학사 학위 논문 작성 가이드(A.B.)
+==================================================================
+
+이 논문 가이드는 공학 분야 논문을 작성 중이거나 작성에 관심이 있는 학생들을 안내하기 위해 마련되었습니다.
+가이드로 사용해야 합니다.
+각 학생은 논문 지도교수와 가장 긴밀히 협력해야 합니다. 
+공학 및 응용 과학 학교(SEAS) 외부의 고문과 함께 일하는 학생을 위한 추가 요구 사항을 확인하세요.
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   abstraction
+   introduction
+   materials_and_methods
+   results
+   discussion
+   references
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
